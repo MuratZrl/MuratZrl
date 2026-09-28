@@ -1,16 +1,20 @@
 # Murat Zorlu
 
-Full-stack developer · Istanbul · **Available for freelance & contract work**
+Full-stack developer based in Istanbul, open to freelance and contract work.
 
-I build production web apps end to end: TypeScript, Next.js, NestJS, PostgreSQL, Redis, Go.
-Design → frontend → backend → deploy → handover. One person, no handoffs.
+I mostly write TypeScript: Next.js on the frontend, NestJS with PostgreSQL and Redis on the backend, and Go when it fits the job. I usually take a project from the first design all the way to deployment on my own.
 
-**Live work**
-- [TeamBoard](https://teamboard-web.vercel.app) — multi-tenant SaaS, kanban, Stripe billing, E2E tests · [repo](https://github.com/MuratZrl/teamboard)
-- [PulseChat](https://pulsechat-plum.vercel.app) — real-time chat, channels, DMs, file sharing · [repo](https://github.com/MuratZrl/pulsechat)
-- [bozukkart.com](https://bozukkart.com) — real-time multiplayer party game, Redis-persisted rooms · [repo](https://github.com/MuratZrl/bozukkart)
-- [api-gateway](https://github.com/MuratZrl/api-gateway) — Go, reverse proxy, rate limiting, circuit breaker
+**Things I've built**
 
-Client sites: yenigunemlak.com, szmetal.com.tr
+- [TeamBoard](https://teamboard-web.vercel.app): a multi-tenant project management app with kanban boards, Stripe billing and end-to-end tests. [Source](https://github.com/MuratZrl/teamboard)
+- [PulseChat](https://pulsechat-plum.vercel.app): real-time chat with channels, DMs and file sharing. [Source](https://github.com/MuratZrl/pulsechat)
+- [bozukkart.com](https://bozukkart.com): a multiplayer party game you play with friends in the browser. Game rooms are stored in Redis. [Source](https://github.com/MuratZrl/bozukkart)
+- [api-gateway](https://github.com/MuratZrl/api-gateway): an API gateway written in Go, with reverse proxying, rate limiting and a circuit breaker.
 
-**Contact** · [muratzorlu.dev](https://muratzorlu.dev) · [LinkedIn](https://linkedin.com/in/murat-zorlu-dev) · me@muratzorlu.dev
+**Client work**
+
+- [yurtseveremlak.com](https://yurtseveremlak.com): website for a real estate agency with five offices, built and shipped solo
+- [yenigunemlak.com](https://yenigunemlak.com): frontend work as part of a small team
+- [szmetal.com.tr](https://szmetal.com.tr): full-stack web app for an aluminum profile manufacturer
+
+**Contact:** me@muratzorlu.dev, [LinkedIn](https://linkedin.com/in/murat-zorlu-dev) or [muratzorlu.dev](https://muratzorlu.dev)
