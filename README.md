@@ -16,5 +16,6 @@ I mostly write TypeScript: Next.js on the frontend, NestJS with PostgreSQL and R
 - [yurtseveremlak.com](https://yurtseveremlak.com): website for a real estate agency with five offices, built and shipped solo
 - [yenigunemlak.com](https://yenigunemlak.com): frontend work as part of a small team
 - [szmetal.com.tr](https://szmetal.com.tr): full-stack web app for an aluminum profile manufacturer
+- ERP automation for the same manufacturer: their ERP has no API for stock card pictures, so I wrote a Windows RPA (PowerShell with C# interop) that drives the UI and checks every step on screen. A Python pipeline (OCR, OpenCV) crops profile drawings out of product catalogs and matches them to thousands of stock cards. Private repo.
 
 **Contact:** me@muratzorlu.dev, [LinkedIn](https://linkedin.com/in/murat-zorlu-dev) or [muratzorlu.dev](https://muratzorlu.dev)
